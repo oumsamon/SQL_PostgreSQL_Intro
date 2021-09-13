@@ -394,7 +394,7 @@ just like we have with `.js` and `.rb` files.
 ## We Do: Building Our Database & Basic Queries 
 
 Clone down and follow the instructions in the
-[library SQL Exercise repo](https://git.generalassemb.ly/SEIR-32221/library_sql).
+[library SQL Exercise repo](https://git.generalassemb.ly/sei-712/library_sql).
 
 Complete the queries in `basic_queries.sql` in the library_sql repo. Do not go on to `advanced_queries` just yet. 
 
